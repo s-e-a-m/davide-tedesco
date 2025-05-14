@@ -13,17 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: SEAM
-email: ciccio@pizza.it
+title: Davide Tedesco
+email: davide.tedesco.rome@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Random Access Memories.
 url: https://s-e-a-m.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: "/ciccio-pizza" # the subpath of your site, e.g. "/blog"
+baseurl: "/davide-tedesco" # the subpath of your site, e.g. "/blog"
 repository: "S-E-A-M/ciccio-pizza"
-twitter_username: username
-github_username: username
+github_username: DavideTedesco
 minimal_mistakes_skin: dark
 search: true
 
@@ -61,34 +58,37 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Ciccio Pizza"
+  name   : "Davide Tedesco"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "..."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://davidetedesco.it"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/DavideTedesco"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://gitlab.com/DavideTedesco"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/daeveofficial"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://davidetedesco.it"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/DavideTedesco"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://gitlab.com/DavideTedesco"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/daeveofficial"
 
 defaults:
   # _posts
